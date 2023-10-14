@@ -1,0 +1,207 @@
+@media only screen and (max-width: 768px) {
+
+
+    /* SLIDER PART  START  */
+
+    .sliderbgimg {
+        height: auto;
+     }
+
+     div.carousel-item img {
+        width: auto !important;
+        height: 450px !important;
+        margin-top: 5%!important;
+        margin-bottom: 120px !important;
+    }
+    
+     /* .bestshoesjustforyous{margin-top: 150px!important;} */
+    /* .carousel-item{height: 500px; margin-top: 5%;} */
+
+    .section2 {
+        /* border: 2px solid; */
+        margin-top: 0px !important;
+
+    }
+
+
+    .section1 h6,
+    p {
+        display: none;
+
+    }
+
+    .viewmore {
+        display: none;
+    }
+
+    .section1 h5 {
+        width: 100% !important;
+        margin-left: 0% !important;
+    }
+
+    div.carousel-inner,
+    img {
+        margin-top: 2% !important;
+        max-width: 100%;
+        height: 600px;
+    }
+
+
+    /* SLIDER PART  END  */
+
+
+    /* CARD SECTION START */
+    .cardpara {
+        border: 2px solid white;
+        margin-top: 0%;
+        height:auto;
+        max-width: 100%;
+      
+    }
+
+   .card{
+    /* border: 2px solid green; */
+    outline: none;
+    border: none;
+    max-width: 100%;
+    margin: auto;
+    
+   }
+
+   .card-img-top{
+    height: 350px;
+   }
+
+
+    /* CARD SECTION END */
+
+/* STYLISH PART START */
+
+.readmore {
+    
+    margin-top: 2%!important;
+    margin-bottom: 3%!important;
+}
+    
+div img{
+    max-height: 90%!important;
+}
+
+/* STYLISH PART END */
+
+/* <!-- LOGO PART START --> */
+
+.logos{
+    display: block;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin: auto;
+    /* border: 2px solid; */
+    width: 50%;
+    height: auto;
+    padding: auto;
+    justify-content: center;
+    text-align: center;
+}
+
+.logos img{
+    width: 40%;
+    height: 20%;
+    margin-top: 22%!important;
+    margin-bottom: 22%;
+   
+    /* border: 2px solid; */
+
+}
+/* <!-- LOGO PART END--> */
+
+
+/* CARD PART TWO START  */
+
+.blog{
+    text-align: center;
+    /* border: 2px solid black; */
+    height: auto;
+}
+
+
+.date {
+    transform: rotate(90deg) translate(100%, 0);
+    transform-origin: top right;
+    position: absolute;
+    /* top: 45px; */
+    right: -25px;
+    font-weight: 400;
+    font-size: medium !important;
+    color: #1d1d1f;
+    display: flex;
+    align-items: center;
+    font-size: small;
+
+}
+
+/* CARD PART TWO END  */
+
+.logostwo{
+   text-align: center;
+}
+
+/* STYLISH PART START */
+
+.readmore {
+    
+    margin-top: 2%!important;
+    margin-bottom: 3%!important;
+}
+    
+div img{
+    max-height: 80%!important;
+}
+
+/* STYLISH PART END */
+
+/* WHITE SHOE PART START */
+.whiteshoe{
+    margin: auto!important;
+    margin-bottom: 0%!important;
+    margin-top: 12%!important;
+    /* margin-left: 35px!important; */
+ 
+}
+.legshoemain{height: auto!important;}
+.whiteshoe img{max-height:100%!important;}
+.whiteshoetext{margin-bottom: 10%!important; margin-top:0%!important;}
+/* WHITE SHOE PART END */
+
+/* OUR BRAND NEW SHOE START */
+
+
+/* OUR BRAND NEW SHOE END */
+
+/* HEADER PART START */
+
+.Collaboratively{
+    width: 90%;
+}
+
+.lastbutton{
+    width: auto;
+    height: auto;
+    border-radius: 0%;
+}
+
+.copyright h6{
+    width: auto!important;
+    height: auto!important;
+    padding-top: 30px;
+    /* margin-left: 30%; */
+    font-weight: 500; width: 100%; color: gray; font-size:small;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p-2{text-align: center;}
+.headermain{height: 400px!important;}
+
+}

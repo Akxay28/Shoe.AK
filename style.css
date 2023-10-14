@@ -1,0 +1,334 @@
+/* SLIDER PART  START  */
+
+.sliderbgimg {
+    background-image: url(img/backgroundpillimage.jpg);
+    background-size: cover;
+    background-color: #c43341;
+    background-blend-mode: darken;
+    width: 100%;
+    height: 800px;
+}
+
+div.carousel-item img {
+    width: auto !important;
+    height: 600px !important;
+    margin-top: 50px !important;
+    margin: auto !important;
+    margin-bottom: 120px !important;
+}
+
+div .section1 h6 {
+    margin-top: 150px !important;
+}
+
+div.carousel-inner,
+img {
+    max-width: 100%;
+}
+
+.btn {
+    width: 33%;
+    height: 7%;
+    border-radius: 0%;
+}
+
+
+.viewmore:hover {
+    background: none;
+    background-color: rgba(255, 255, 255, 0.193);
+}
+
+/* SLIDER PART  END  */
+
+
+/* CARD SECTION START */
+
+.card {
+    border: 2px solid green;
+    outline: none;
+    border: none;
+}
+
+/* CARD SECTION END */
+
+/* STYLISH PART START */
+
+
+
+.stylishmain {
+    margin-top: 5%;
+    height: auto;
+    background-image: url(img/backgroundpillimage.jpg);
+    background-size: cover;
+    box-sizing: border-box;
+    object-fit: cover;
+    background-color: #c43341;
+    background-blend-mode: darken;
+    /* border: 2px solid; */
+}
+
+
+
+.backimgone {
+    margin-top: 15% !important;
+    margin-left: 15% !important;
+
+}
+
+.stylishrow .mbr-section-title {
+    margin-left: 15% !important;
+}
+
+.backimgtwo {
+    margin-top: 5% !important;
+    font-size: larger;
+    width: 80%;
+}
+
+.backimgtwo span {
+    margin-left: 35px !important;
+}
+
+.readmore {
+    background: transparent;
+    font-size: large;
+    border: none;
+    font-weight: 400;
+    margin-top: 5% !important;
+    width: 100%;
+    text-align: start;
+    color: black;
+    background-color: rgba(128, 128, 128, 0.14);
+  
+}
+
+.stylishbackimg .readmore:hover{
+   background: transparent;
+   background: none;
+}
+
+
+/*  STYLISH PART END  */
+
+/* LOGO PART START */
+.logos {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    gap: 10%;
+    height: auto;
+    /* border: 2px solid; */
+    /* padding: 15%; */
+    transition: all .3s;
+    filter: grayscale(1) contrast(2) invert(0.7);
+}
+
+/* .logos:hover img{
+   filter:none;
+   background-color: #1d1d1f;
+} */
+/* LOGO PART END*/
+
+/* CARD PART TWO START  */
+
+.cardparatwo {
+    background-color: rgba(128, 128, 128, 0.14);
+    height: auto;
+    margin-bottom: 5%;
+
+}
+
+.date {
+    transform: rotate(90deg) translate(100%, 0);
+    transform-origin: top right;
+    position: absolute;
+    /* top: 45px; */
+    right: -25px;
+    font-weight: 400;
+    font-size: medium !important;
+    color: #1d1d1f;
+    display: flex;
+    align-items: center;
+    font-size: small;
+
+}
+
+.date::before {
+    content: '';
+    position: relative;
+    display: block;
+    height: 1px;
+    width: 26px;
+    margin-right: 15px;
+    background-color: #dbdbdb;
+}
+
+.readmoretwo{
+    width: 100%;
+    text-align: start;
+    background: none;
+    font-size: large;
+    border: none; 
+    font-weight: 400;
+    outline: none;
+    background-color: rgba(128, 128, 128, 0.14);
+}
+
+.cardbodytwo{
+    background-color: rgba(128, 128, 128, 0.14);
+}
+
+
+/* CARD PART TWO END  */
+
+/* LOGO SECOND PART START */
+
+.logostwo{
+    margin-top: 7%;
+    gap: 5%;
+    height: auto;
+    /* border: 2px solid; */
+    /* padding: 15%; */
+    margin-bottom: 10%;
+}
+
+.logostwo img{
+    height: 125px;
+    width: 130px;
+}
+
+
+/* LOGO SECOND PART END */
+
+
+
+
+.legshoemain {
+    /* margin-top: 5%; */
+    
+   height: fit-content;
+    /* border: 2px solid; */
+    background-image: url(img/backgroundpillimage.jpg);
+    background-size: cover;
+    box-sizing: border-box;
+    object-fit: cover;
+    background-color: #c43341;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+}
+
+.whiteshoe{
+    margin-top: 7.5%;
+    margin-left: -35px;
+}
+
+.whiteshoe img{
+    /* border: 2px solid; */
+    width: 100%;
+    height: 85%;
+}
+
+.whiteshoetext{
+   /* border: 2px solid; */
+   height: 120%!important;
+   margin-top: 3%!important;
+    padding: 0%!important;
+    /* width: 80%!important; */
+}
+
+
+.readmore {
+    background: transparent;
+    font-size: large;
+    border: none;
+    font-weight: 400;
+    margin-top: 5% !important;
+    width: 100%;
+    text-align: start;
+    color: black;
+}
+
+.stylishbackimg .readmore:hover{
+   background: transparent;
+   background: none;
+}
+
+.backimgtwo {
+    margin-top: 5% !important;
+    font-size: larger;
+    width: 80%;
+}
+
+
+
+/* <!-- OUR BRAND NEW SHOES START --> */
+
+.our-brand-shoe-main{margin-top: 7%!important; height: auto;}
+.our-brand-shoe-main img{height: fit-content;}
+.progress{ width: 80%; height: 5px!important;}
+
+.progress-bar{width:95%; height:1rem!important;}
+
+.main-content-of-brand-new-shoe{margin-top: 7%;}
+
+.lastline-of-progessbar{width: 90%; height: 0.5px!important; border: 1px solid black; margin-top: 5px;}
+
+.bottom-line-progress-bar{margin-bottom: 100px!important;}
+
+
+/* <!-- OUR BRAND NEW SHOES END --> */
+
+/* HEADER PART START */
+
+.headermain{
+    width: auto;
+    height: 460px;
+    border: 2px solid rgba(0, 0, 0, 0.889)!important;
+    border-bottom: black;
+    margin-top: 7%!important;
+    background-color: rgba(0, 0, 0, 0.889)!important;
+}
+
+.imageprotion{
+    /* border: 2px solid green; */
+    width: 70%;
+    display: flex ;
+    position: relative;
+    margin-top: 7%!important;
+    
+}
+
+.imageprotion h4{display: inline;}
+
+
+.lastbutton{
+    width: 18%;
+    height: 10%;
+    border-radius: 0%;
+}
+
+.lastbutton:hover {
+    background: none;
+    background-color: rgba(255, 255, 255, 0.193);
+}
+
+.Collaboratively{
+    margin-top: -3%!important;
+    width: fit-content;
+}
+
+/* HEADER PART END */
+
+.copyright{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+
+.copyright h6{
+    padding-top: 30px;
+    /* margin-left: 30%; */
+    font-weight: 500; width: 100%; color: gray; font-size:large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
